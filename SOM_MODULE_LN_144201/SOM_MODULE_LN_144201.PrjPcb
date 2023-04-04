@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LURHADET
 
 [Document3]
 DocumentPath=EMMC Flash memory.SchDoc
@@ -117,6 +117,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MVDPXXJJ
 
 [Document5]
+DocumentPath=SOM SDRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LFLAMMQE
+
+[Document6]
 DocumentPath=SOC Power Pins.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
