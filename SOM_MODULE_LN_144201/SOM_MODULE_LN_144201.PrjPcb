@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MVDPXXJJ
 
 [Document5]
-DocumentPath=SOM SDRAM.SchDoc
+DocumentPath=SOC SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KKZTIIYM
 
 [Document7]
-DocumentPath=SOM EMMC, SDMMC, PCIE, ADC.SchDoc
+DocumentPath=SOC EMMC, SDMMC, PCIE, ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BIIEIECN
 
 [Document8]
-DocumentPath=SOM Display, HDMI, EDP.SchDoc
+DocumentPath=SOC Display, HDMI, EDP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
