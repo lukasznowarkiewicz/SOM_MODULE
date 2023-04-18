@@ -1,2 +1,6 @@
-Record=TopLevelDocument|FileName=LPDDR4 SDRAM - module 2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=LPDDR4 SDRAM - module 2.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=EMMC Flash memory.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=LPDDR4 SDRAM - 1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=LPDDR4 SDRAM - 2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=SOC Power Pins.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=SOM SDRAM.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=WiFi module.SchDoc|SheetNumber=4
