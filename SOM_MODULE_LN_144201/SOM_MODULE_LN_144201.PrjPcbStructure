@@ -1,6 +1,18 @@
-Record=TopLevelDocument|FileName=EMMC Flash memory.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=LPDDR4 SDRAM - 1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=LPDDR4 SDRAM - 2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=SOC Power Pins.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=SOM SDRAM.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=EMMC Flash memory.SchDoc|FileName=WiFi module.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=BTNs and LEDs.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=DDR4 Conn.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=EMMC Flash memory.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=ETH PHY IC.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=LPDDR4 SDRAM - 1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=LPDDR4 SDRAM - 2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=PMIC.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=PWR ICs.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC Display, HDMI, EDP.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC EMMC, SDMMC, PCIE, ADC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC MIPI-CSI, I2C.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC PMU Controller.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC Power Pins.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC RGMII-SDIO, SPI.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC SDRAM.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=SOC USB, USIC.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=USB C conn & ctrl.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=BTNs and LEDs.SchDoc|FileName=WiFi module.SchDoc|SheetNumber=4
