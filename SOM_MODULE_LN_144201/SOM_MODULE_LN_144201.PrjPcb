@@ -1373,6 +1373,13 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=VDD_CENTER|NetColor=clYellow
+Net2=NetName=VDD_CPU_B|NetColor=$00FF6EFF
+Net3=NetName=VDD_CPU_L|NetColor=$00FF6E6E
+Net4=NetName=VDD_GPU|NetColor=$0000BE00
+Net5=NetName=VDD_LOG|NetColor=$006EFF6E
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
