@@ -1375,19 +1375,20 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=VCC_0V9|NetColor=$006EFF6E
-Net2=NetName=VCC_DDR|NetColor=clYellow
-Net3=NetName=VCC_DDRC|NetColor=$006E6EFF
-Net4=NetName=VCC0V9_S3|NetColor=$0000BE00
-Net5=NetName=VCC1V8_LPDDR4_A|NetColor=$0000BE00
-Net6=NetName=VCC1V8_S3|NetColor=$000083FD
-Net7=NetName=VCC3V3_S3|NetColor=$006EFF6E
-Net8=NetName=VCCA0V9_S3|NetColor=$00FFFF6E
-Net9=NetName=VCCA1V8_S3|NetColor=$000083FD
-Net10=NetName=VDD_CENTER|NetColor=clYellow
-Net11=NetName=VDD_CPU_B|NetColor=$00FF6EFF
-Net12=NetName=VDD_CPU_L|NetColor=$00FF6E6E
-Net13=NetName=VDD_GPU|NetColor=$0000BE00
-Net14=NetName=VDD_LOG|NetColor=$006EFF6E
+Net2=NetName=VCC_1V8|NetColor=$000083FD
+Net3=NetName=VCC_DDR|NetColor=clYellow
+Net4=NetName=VCC_DDRC|NetColor=$006E6EFF
+Net5=NetName=VCC0V9_S3|NetColor=$0000BE00
+Net6=NetName=VCC1V8_LPDDR4_A|NetColor=$0000BE00
+Net7=NetName=VCC1V8_S3|NetColor=$000083FD
+Net8=NetName=VCC3V3_S3|NetColor=$006EFF6E
+Net9=NetName=VCCA0V9_S3|NetColor=$00FFFF6E
+Net10=NetName=VCCA1V8_S3|NetColor=$000083FD
+Net11=NetName=VDD_CENTER|NetColor=clYellow
+Net12=NetName=VDD_CPU_B|NetColor=$00FF6EFF
+Net13=NetName=VDD_CPU_L|NetColor=$00FF6E6E
+Net14=NetName=VDD_GPU|NetColor=$0000BE00
+Net15=NetName=VDD_LOG|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
